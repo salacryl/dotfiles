@@ -1,0 +1,11 @@
+# .gitpod.yml
+vscode:
+  extensions:
+    - ms-python.python
+    - esbenp.prettier-vscode
+    - eamodio.gitlens
+    - ms-python.black-formatter
+    - vector-of-bool.gitflow
+    - pkief.material-icon-theme
+    - ms-python.vscode-pylance
+    - mechatroner.rainbow-csv
