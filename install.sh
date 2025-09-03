@@ -22,4 +22,8 @@ if [ -f "$(dirname "$0")/.p10k.zsh" ]; then
   cp "$(dirname "$0")/.p10k.zsh" ~/
 fi
 
+cp -f ~/dotfiles/.zshrc ~/.zshrc
+cp -f ~/dotfiles/.p10k.zsh ~/.p10k.zsh
+
+
 echo "✅ Powerlevel10k installiert."
